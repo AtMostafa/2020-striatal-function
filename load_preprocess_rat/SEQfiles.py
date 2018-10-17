@@ -168,15 +168,28 @@ class SeqFile(SeqFileFormat):
         file.seek(-(frameSize+timestampL+4),1)
         logging.info(f'current time:{time}')
         
+def adj_contrast_brightness(im,cont_fac=1.5,bright_fac=40):
+    if not isinstance(im,Image.Image):
+        raise TypeError(f'input must be a PIL.Image object')
+    
+    a=ImageEnhance.Brightness(im)
+    im2=a.enhance(bright_fac)
+    a=ImageEnhance.Contrast(im2)
+    im3=a.enhance(cont_fac)
+    
+    return im3
+        
 if __name__=="__main__":
     filePath="/data/Rat106/Experiments/Rat106_2017_03_31_10_56/Rat106_2017_03_31_10_56.seq"
+    
+    fix=adj_contrast_brightness
     t0=time.perf_counter()
     with SeqFile(filePath) as f:
         t=f.time_offset()
-        T=t+timedelta(minutes=44)
+        T=t+timedelta(minutes=4, seconds=11.1)
         f.goto_time(T)
         im,_=f.get_frame()
-        im.show()
+        fix(im).show()
         t1=time.perf_counter()
         print(f'Done:{t1-t0}')
 
