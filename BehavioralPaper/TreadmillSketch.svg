@@ -109,6 +109,32 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path8994-1" />
     </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18049"
+       x="-0.35999998"
+       width="1.72"
+       y="-0.36000001"
+       height="1.72">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.5039367"
+         id="feGaussianBlur18051" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18057"
+       x="-0.23999998"
+       width="1.48"
+       y="-0.24000002"
+       height="1.48">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8346458"
+         id="feGaussianBlur18059" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,9 +143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="989.90326"
-     inkscape:cy="-239.59421"
+     inkscape:zoom="0.43068289"
+     inkscape:cx="207.02871"
+     inkscape:cy="2617.2321"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -131,7 +157,7 @@
      guidetolerance="10000"
      showguides="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-others="false"
@@ -139,9 +165,10 @@
      gridtolerance="1"
      inkscape:snap-path-clip="true"
      inkscape:snap-path-mask="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid4161" />
@@ -351,6 +378,46 @@
            style="fill:#c27575"
            id="path9583" />
       </g>
+    </g>
+    <g
+       id="g18174">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16954"
+         d="m -373.82492,-1303.1647 0,76.0547 0,76.0547"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;opacity:0.771"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g18061"
+         transform="translate(242.2012,471.46856)">
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:14.17322826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter18049)"
+           id="path16915"
+           cx="-616.02612"
+           cy="-1817.4058"
+           rx="28.346457"
+           ry="28.346455" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:14.17322826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter18057)"
+           id="path16915-3"
+           cx="-616.02612"
+           cy="-1817.4058"
+           rx="14.17323"
+           ry="14.173228" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:7.08661413;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path16915-3-7"
+           cx="-616.02612"
+           cy="-1817.4058"
+           rx="3.5433071"
+           ry="3.5433064" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path16954-5"
+         d="m -373.82492,-1539.833 0,76.0547 0,76.0547"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;opacity:0.771"
+         sodipodi:nodetypes="ccc" />
     </g>
   </g>
 </svg>
