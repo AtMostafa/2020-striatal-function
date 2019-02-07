@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.30453879"
-     inkscape:cx="865.63571"
+     inkscape:cx="1128.328"
      inkscape:cy="2353.3523"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -586,5 +586,30 @@
            id="g18759" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:150px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-476.9577"
+       y="-1544.9584"
+       id="text19849"
+       sodipodi:linespacing="1000%"><tspan
+         sodipodi:role="line"
+         id="tspan19851"
+         x="-476.9577"
+         y="-1544.9584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Beam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:150px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1152.8929"
+       y="-958.95526"
+       id="text19849-8"
+       sodipodi:linespacing="1000%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan19851-0"
+         x="1152.8929"
+         y="-958.95526"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Reward</tspan></text>
   </g>
 </svg>
