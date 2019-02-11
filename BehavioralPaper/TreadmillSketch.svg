@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.21534145"
-     inkscape:cx="1502.1651"
-     inkscape:cy="1568.1103"
+     inkscape:cx="1328.7722"
+     inkscape:cy="2586.4095"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g19984"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1115"
@@ -614,5 +614,45 @@
          x="1181.7249"
          y="-958.95526"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Reward</tspan></text>
+    <g
+       id="g19984"
+       transform="matrix(-0.02922408,0,0,-0.02922408,2151.352,-1473.2896)"
+       style="fill:#000000;stroke:none;stroke-width:24.2492294;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g20009">
+        <path
+           style="stroke-width:24.2492294;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 5995,9074 c -247,-12 -493,-27 -640,-40 C 3895,8908 2561,8523 1591,7947 380,7228 -171,6283 46,5301 c 75,-337 250,-669 515,-976 667,-773 1837,-1371 3334,-1704 872,-194 1815,-281 2803,-259 1841,41 3563,497 4702,1246 269,176 434,307 634,501 514,501 766,1032 766,1613 -1,1121 -1024,2145 -2766,2769 -861,308 -1788,490 -2869,565 -203,14 -1003,26 -1170,18 z m 1190,-218 c 238,-18 260,-20 515,-47 1900,-202 3554,-882 4350,-1786 289,-329 451,-634 523,-987 19,-95 22,-141 21,-326 0,-241 -14,-330 -80,-530 C 12319,4589 11759,4012 10950,3567 8998,2496 5857,2245 3360,2961 2021,3346 1016,3964 518,4710 c -135,203 -240,448 -289,680 -20,90 -23,136 -23,320 -1,185 2,231 21,326 72,353 234,658 523,987 461,524 1237,992 2185,1317 903,309 1917,488 3030,534 200,8 1024,-4 1220,-18 z"
+           id="path19986" />
+        <path
+           style="stroke-width:24.2492294;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 11015,2943 c -291,-35 -498,-117 -636,-253 -107,-106 -134,-164 -134,-290 0,-88 2,-100 34,-160 70,-134 229,-251 437,-319 270,-88 617,-88 888,0 242,79 411,216 460,373 26,82 19,185 -19,263 -56,114 -198,231 -362,298 -178,72 -476,111 -668,88 z m 313,-153 c 429,-54 694,-284 572,-496 -84,-147 -324,-257 -621,-285 -376,-36 -779,105 -869,303 -127,279 383,545 918,478 z"
+           id="path19988" />
+        <path
+           style="stroke-width:24.2492294;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 11400,1695 c -287,-64 -474,-211 -509,-400 -21,-111 19,-216 118,-315 128,-127 317,-198 556,-207 268,-11 490,57 637,196 94,88 133,167 133,271 0,63 -5,86 -31,140 -67,142 -213,243 -439,306 -84,23 -376,29 -465,9 z m 401,-150 c 205,-39 357,-147 384,-274 26,-122 -115,-261 -330,-323 -70,-20 -102,-23 -245,-23 -184,1 -241,12 -365,69 -204,96 -266,252 -152,382 137,155 421,223 708,169 z"
+           id="path19990" />
+        <path
+           style="stroke-width:24.2492294;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           d="m 11952,649 c -243,-43 -402,-169 -402,-318 0,-134 122,-247 330,-304 107,-29 333,-29 440,0 209,58 330,169 330,303 0,133 -116,242 -321,300 -85,25 -290,35 -377,19 z m 301,-154 c 143,-30 247,-100 247,-165 0,-92 -196,-180 -401,-180 -200,0 -399,90 -399,180 0,64 104,135 243,165 82,18 226,18 310,0 z"
+           id="path19992" />
+        <text
+           transform="scale(-1,-1)"
+           sodipodi:linespacing="1000%"
+           id="text20005"
+           y="-3918.1467"
+           x="-9136.6533"
+           style="font-style:normal;font-weight:normal;font-size:5132.75341797px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-3918.1467"
+             x="-9136.6533"
+             id="tspan20007"
+             sodipodi:role="line">7s</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
