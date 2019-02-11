@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="TreadmillSketch.svg">
+   sodipodi:docname="TreadmillSketch.svg"
+   inkscape:export-filename="/home/david/Pictures/TREADMILL2.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30453879"
-     inkscape:cx="1128.328"
-     inkscape:cy="2353.3523"
+     inkscape:zoom="0.21534145"
+     inkscape:cx="1502.1651"
+     inkscape:cy="1568.1103"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -601,14 +604,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:150px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1152.8929"
+       x="1181.7249"
        y="-958.95526"
        id="text19849-8"
        sodipodi:linespacing="1000%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan19851-0"
-         x="1152.8929"
+         x="1181.7249"
          y="-958.95526"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Reward</tspan></text>
   </g>
