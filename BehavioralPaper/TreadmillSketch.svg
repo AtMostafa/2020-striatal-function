@@ -29,9 +29,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.21534145"
      inkscape:cx="1328.7722"
-     inkscape:cy="2586.4095"
+     inkscape:cy="2029.155"
      inkscape:document-units="mm"
-     inkscape:current-layer="g19984"
+     inkscape:current-layer="g20009"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1115"
@@ -651,7 +651,8 @@
              y="-3918.1467"
              x="-9136.6533"
              id="tspan20007"
-             sodipodi:role="line">7s</tspan></text>
+             sodipodi:role="line"
+             style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">7s</tspan></text>
       </g>
     </g>
   </g>
