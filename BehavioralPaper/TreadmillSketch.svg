@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1409.3079mm"
-   height="660.7384mm"
-   viewBox="0 0 4993.6107 2341.1991"
+   height="558.92468mm"
+   viewBox="0 0 4993.6107 1980.4418"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.14418424"
      inkscape:cx="2947.828"
-     inkscape:cy="882.82618"
+     inkscape:cy="882.82599"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -62,7 +62,7 @@
        id="grid4161"
        type="xygrid"
        originx="1108.2363"
-       originy="-1514.7368" />
+       originy="-1514.7369" />
   </sodipodi:namedview>
   <title
      id="title4159">TreadmillSketch</title>
@@ -530,7 +530,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1108.2363,2803.5734)"
+     transform="translate(1108.2363,2442.8163)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
