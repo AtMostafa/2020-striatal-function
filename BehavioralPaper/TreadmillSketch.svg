@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1409.6351mm"
-   height="616.1181mm"
-   viewBox="0 0 4994.7703 2183.0957"
+   height="625.71362mm"
+   viewBox="0 0 4994.7703 2217.0956"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10195366"
-     inkscape:cx="1782.7503"
-     inkscape:cy="1602.2088"
+     inkscape:zoom="0.14418424"
+     inkscape:cx="4024.1864"
+     inkscape:cy="1509.9125"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -62,7 +62,7 @@
        id="grid4161"
        type="xygrid"
        originx="1109.3959"
-       originy="-1312.0829" />
+       originy="-1278.083" />
   </sodipodi:namedview>
   <title
      id="title4159">TreadmillSketch</title>
@@ -725,7 +725,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1109.3959,2442.8163)"
+     transform="translate(1109.3959,2442.8162)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -1212,13 +1212,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:150px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1119.7108"
-       y="-288.40701"
+       y="-254.40701"
        id="text19849-7-8"
        sodipodi:linespacing="1000%"><tspan
          sodipodi:role="line"
          id="tspan19851-5-85"
          x="-1119.7108"
-         y="-288.40701"
+         y="-254.40701"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.00000763px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Entrance time (<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
    id="tspan5196">ET</tspan>):</tspan></text>
@@ -1241,7 +1241,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Position tracking</tspan></text>
     <g
        id="g5098"
-       transform="matrix(0.19944521,0,0,0.19944521,282.23724,-615.22329)">
+       transform="matrix(0.33888399,0,0,0.33888399,476.00968,-829.76716)">
       <path
          sodipodi:nodetypes="ccsssccc"
          inkscape:connector-curvature="0"
