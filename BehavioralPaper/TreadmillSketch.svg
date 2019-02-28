@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14418424"
-     inkscape:cx="4024.1864"
-     inkscape:cy="1509.9125"
+     inkscape:zoom="1.6312585"
+     inkscape:cx="1230.0803"
+     inkscape:cy="304.09473"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g19827-5"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1115"
@@ -1355,51 +1355,6 @@
            style="opacity:1;fill:none;stroke:#000000;stroke-width:10.62992096;stroke-miterlimit:4;stroke-dasharray:none"
            d="m -696.78562,-1426.0565 -141.03727,0 70.51864,122.142 70.51863,-122.142 z"
            inkscape:connector-curvature="0" />
-        <g
-           id="g18767-4"
-           transform="matrix(0.24282532,0,0,0.24282532,-829.46754,-1482.0177)"
-           style="opacity:1;filter:url(#filter19758-2)">
-          <path
-             id="path18727-7"
-             d="M 438.4,329.6 C 438.4,430.933 356.267,512 256,512 155.733,512 73.6,430.933 73.6,329.6 73.6,228.267 256,0 256,0 c 0,0 182.4,229.333 182.4,329.6 z"
-             style="fill:#006cff;fill-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path18729-6"
-             d="m 256,464 c -73.6,0 -134.4,-59.733 -134.4,-134.4 0,-8.533 7.467,-16 16,-16 8.533,0 16,7.467 16,16 0,56.533 45.867,102.4 102.4,102.4 8.533,0 16,7.467 16,16 0,8.533 -7.467,16 -16,16 z"
-             style="fill:#ffffff"
-             inkscape:connector-curvature="0" />
-          <g
-             id="g18731-5" />
-          <g
-             id="g18733-6" />
-          <g
-             id="g18735-9" />
-          <g
-             id="g18737-3" />
-          <g
-             id="g18739-7" />
-          <g
-             id="g18741-4" />
-          <g
-             id="g18743-5" />
-          <g
-             id="g18745-2" />
-          <g
-             id="g18747-5" />
-          <g
-             id="g18749-4" />
-          <g
-             id="g18751-7" />
-          <g
-             id="g18753-4" />
-          <g
-             id="g18755-4" />
-          <g
-             id="g18757-3" />
-          <g
-             id="g18759-0" />
-        </g>
       </g>
       <g
          transform="translate(-1136.7301,0)"
