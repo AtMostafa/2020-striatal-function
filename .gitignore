@@ -1,0 +1,14 @@
+/.directory
+/Other/.ipynb_checkpoints/
+/_experimental/.ipynb_checkpoints/
+/BehavioralPaper/.ipynb_checkpoints/
+/load_preprocess_rat/.ipynb_checkpoints/
+/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+/BehavioralPaper/.directory
+/BehavioralPaper/__pycache__/set_rc_params.cpython-37.pyc
+/BehavioralPaper/Figures/.directory
+/.ipynb_checkpoints/env-checkpoint.yml
+/LesionPaper/.ipynb_checkpoints/ExampleRats-checkpoint.ipynb
+/LesionPaper/__pycache__/ROOT.cpython-37.pyc
+/LesionPaper/__pycache__/set_rc_params.cpython-37.pyc
+/.vscode/settings.json
