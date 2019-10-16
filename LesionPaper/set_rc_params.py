@@ -7,4 +7,4 @@ def set_rc_params(**kwarg):
     
     
     for key,val in kwarg.items():
-        matplotlib.rcParams[key] = val 
+        matplotlib.rcParams[key] = val
