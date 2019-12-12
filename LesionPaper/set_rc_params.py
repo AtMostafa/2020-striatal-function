@@ -1,5 +1,5 @@
 import matplotlib
-def set_rc_params(**kwarg):
+def set_rc_params(dictArg:dict):
     matplotlib.rcParams['xtick.major.pad'] = 1
     matplotlib.rcParams['ytick.major.pad'] = 1
     matplotlib.rcParams['axes.labelpad']   = 2
@@ -11,5 +11,5 @@ def set_rc_params(**kwarg):
 
     
     
-    for key,val in kwarg.items():
+    for key,val in dictArg.items():
         matplotlib.rcParams[key] = val
