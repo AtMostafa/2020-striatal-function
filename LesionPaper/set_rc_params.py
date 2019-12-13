@@ -1,5 +1,5 @@
 import matplotlib
-def set_rc_params(dictArg:dict):
+def set_rc_params(dictArg:dict ={}):
     matplotlib.rcParams['xtick.major.pad'] = 1
     matplotlib.rcParams['ytick.major.pad'] = 1
     matplotlib.rcParams['axes.labelpad']   = 2
