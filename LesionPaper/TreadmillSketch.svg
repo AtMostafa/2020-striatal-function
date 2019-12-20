@@ -1854,7 +1854,7 @@
     </g>
     <g
        id="g4625"
-       transform="translate(89.625784,-5.9988024)">
+       transform="translate(107.04614,-5.9988024)">
       <text
          sodipodi:linespacing="1000%"
          id="text19849-7-8-1"
@@ -1993,7 +1993,8 @@
       </g>
     </g>
     <g
-       id="g5773">
+       id="g5773"
+       transform="translate(17.420358,0)">
       <g
          transform="translate(-55.268225,10.232234)"
          id="g12472">
@@ -2860,7 +2861,7 @@
              id="tspan19851-5-85"
              x="-1079.1118"
              y="-167.78746"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Entrance time</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Entrance time (ET)</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
            d="m -1090.7457,-159.27741 0,-10.5171 7.3362,0"
