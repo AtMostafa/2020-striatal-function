@@ -83,9 +83,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="60.37933"
-     inkscape:cy="64.681981"
+     inkscape:zoom="3.959798"
+     inkscape:cx="50.718128"
+     inkscape:cy="59.503804"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -282,7 +282,7 @@
          id="tspan4610-9"
          x="303.08609"
          y="246.98808"
-         style="font-size:3.75px">B-0.36mm</tspan></text>
+         style="font-size:3.75px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">B-0.36mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -294,7 +294,7 @@
          id="tspan4610-9-0"
          x="304.10416"
          y="240.19345"
-         style="font-size:3.75px">B+0.6mm</tspan></text>
+         style="font-size:3.75px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">B+0.6mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -306,6 +306,6 @@
          id="tspan4610-9-0-3"
          x="301.99478"
          y="233.47955"
-         style="font-size:3.75px">B+1.56mm</tspan></text>
+         style="font-size:3.75px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">B+1.56mm</tspan></text>
   </g>
 </svg>
