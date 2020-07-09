@@ -1,0 +1,23 @@
+#To install the environment, run in a terminal: conda env create -f env2.yml
+name: treadmill2
+dependencies:
+  - python
+  - numpy
+  - notebook
+  - pandas
+  - scipy
+  - matplotlib
+  - xmltodict
+  - jupyterlab
+  - h5py
+  - cython
+  - pillow
+  - imageio
+  - scikit-learn
+  - xlrd
+  - pip
+  - pip:
+    - casadi
+    - tables
+    - PyPDF2
+    - nest_asyncio
